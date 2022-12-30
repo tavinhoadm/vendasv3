@@ -1,0 +1,16 @@
+{
+    "pedidostotal": 4,
+    "gastostotal": 0.06999999999999999,
+    "09/07/2022": {
+        "pedidos": 3,
+        "recebimentos": 0.06
+    },
+    "964304264098906133": {
+        "gastosaprovados": 0.06999999999999999,
+        "pedidosaprovados": 4
+    },
+    "10/07/2022": {
+        "pedidos": 1,
+        "recebimentos": 0.01
+    }
+}
